@@ -1,3 +1,8 @@
+---
+id: package-managers
+sidebar_label: "package-managers"
+---
+
 # package-managers
 
 undefined

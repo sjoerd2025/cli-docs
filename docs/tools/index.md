@@ -1,3 +1,8 @@
+---
+id: index
+sidebar_label: "CLI Tools & Global Packages Reference"
+---
+
 # CLI Tools & Global Packages Reference
 
 Complete reference for installed CLI tools and global packages across npm, yarn, and Go.

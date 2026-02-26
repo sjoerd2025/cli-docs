@@ -1,3 +1,8 @@
+---
+id: containerization
+sidebar_label: "containerization"
+---
+
 # containerization
 
 undefined

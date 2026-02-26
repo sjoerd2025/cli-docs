@@ -1,3 +1,8 @@
+---
+id: code-quality
+sidebar_label: "code-quality"
+---
+
 # code-quality
 
 undefined

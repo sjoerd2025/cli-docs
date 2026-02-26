@@ -1,3 +1,8 @@
+---
+id: ai-development
+sidebar_label: "ai-development"
+---
+
 # ai-development
 
 undefined

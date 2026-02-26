@@ -1,3 +1,8 @@
+---
+id: go-global
+sidebar_label: "go-global"
+---
+
 # go-global
 
 Popular Go tools installed globally with go install

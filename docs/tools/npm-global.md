@@ -1,3 +1,8 @@
+---
+id: npm-global
+sidebar_label: "npm-global"
+---
+
 # npm-global
 
 Popular npm packages installed globally with -g flag

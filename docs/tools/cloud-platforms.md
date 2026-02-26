@@ -1,3 +1,8 @@
+---
+id: cloud-platforms
+sidebar_label: "cloud-platforms"
+---
+
 # cloud-platforms
 
 undefined

@@ -1,3 +1,8 @@
+---
+id: yarn-global
+sidebar_label: "yarn-global"
+---
+
 # yarn-global
 
 Popular packages installed globally via Yarn

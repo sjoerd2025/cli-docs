@@ -1,80 +1,80 @@
 // @ts-check
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CLI Tools & Global Packages',
-  tagline: 'Complete reference for CLI tools and development utilities',
-  favicon: 'img/favicon.ico',
-  url: 'https://sjoerd.github.io',
-  baseUrl: '/flagsmith-integration/',
-  projectName: 'flagsmith-integration',
-  organizationName: 'sjoerd',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  title: "CLI Tools & Global Packages",
+  tagline: "Complete reference for CLI tools and development utilities",
+  favicon: "img/favicon.svg",
+  url: "https://sjoerd2025.github.io",
+  baseUrl: "/cli-docs/",
+  projectName: "cli-docs",
+  organizationName: "sjoerd2025",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: "./sidebars.js",
         },
         blog: {
           showReadingTime: true,
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       },
     ],
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: 'CLI Tools Reference',
+      title: "CLI Tools Reference",
       logo: {
-        alt: 'CLI Tools Logo',
-        src: 'img/logo.svg',
+        alt: "CLI Tools Logo",
+        src: "img/logo.svg",
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Documentation',
+          type: "docSidebar",
+          sidebarId: "tutorialSidebar",
+          position: "left",
+          label: "Documentation",
         },
         {
-          href: 'https://github.com/sjoerd/flagsmith-integration',
-          label: 'GitHub',
-          position: 'right',
+          href: "https://github.com/sjoerd2025/cli-docs",
+          label: "GitHub",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Documentation',
+          title: "Documentation",
           items: [
             {
-              label: 'CLI Tools',
-              to: '/docs/intro',
+              label: "CLI Tools",
+              to: "/docs/intro",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/sjoerd/flagsmith-integration',
+              label: "GitHub",
+              href: "https://github.com/sjoerd2025/cli-docs",
             },
           ],
         },

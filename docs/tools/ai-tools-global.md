@@ -1,3 +1,8 @@
+---
+id: ai-tools-global
+sidebar_label: "ai-tools-global"
+---
+
 # ai-tools-global
 
 LLM and AI model CLI tools installed globally

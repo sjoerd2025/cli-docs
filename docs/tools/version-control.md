@@ -1,3 +1,8 @@
+---
+id: version-control
+sidebar_label: "version-control"
+---
+
 # version-control
 
 undefined
